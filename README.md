@@ -42,7 +42,7 @@ To run this game locally, follow these steps:
 For any inquiries or support, please contact:
 
 - **Name**: Amjad Imdad
-- **Email**: [amjadabro598@gmail.com]
+- **Email**: amjadabro598@gmail.com
 
 ---
 
